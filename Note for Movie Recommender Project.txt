@@ -1,0 +1,5 @@
+Note for Movie Recommender Project:
+
+I initially used an API that had a a lot of movie with its description, rating, etc. But it is an illegal API to implement because it is used in a lot of movie pirate websites, since i host its database using google firebase my account got banned from google because i host an illegal API that violates the law so right now the websites is full of null or blank space that were used to be where all of the movies section. 
+
+my intention with this project is just to make somekind of Netflix knockoff for my software engineering course final assignment projects. I have no intention on upload this project of mine to the public.
